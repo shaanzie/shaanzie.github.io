@@ -1,2 +1,3 @@
-# portfolio
-Portfolio website of Ishaan Lagwankar
+# Portfolio
+
+Portfolio website of Ishaan Lagwankar.
